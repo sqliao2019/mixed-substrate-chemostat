@@ -8,8 +8,9 @@ figures in the manuscript:
 
 Scripts are organized by figure number:
 
-  FigX_*_run.m   : (optional) recomputes data for Figure X (may be time-consuming)
-  FigX_*_plot.m  : generates Figure X using saved outputs in the data/ folder
+  `FigX_*_run.m`   : (optional) recomputes data for Figure X (may be time-consuming)
+  
+  `FigX_*_plot.m`  : generates Figure X using saved outputs in the data/ folder
 
 Precomputed outputs are provided in:
 
@@ -18,6 +19,7 @@ Precomputed outputs are provided in:
 To reproduce a figure, run the corresponding plotting script in MATLAB, e.g.:
 
   Fig1_2_plot
+  
   Fig4_1_plot
 
 Requirements: MATLAB + Symbolic Math Toolbox (for scripts using solve).
