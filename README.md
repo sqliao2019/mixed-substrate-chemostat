@@ -7,11 +7,11 @@ This repository contains the MATLAB source code and precomputed data used to gen
 
 ## Requirements
 
-The code was tested using `MATLAB R2024b` on `Windows 11`.
+No installation is needed beyond downloading the repository and opening it in MATLAB. Setup should take less than five minutes.
 
 The `Symbolic Math Toolbox` is required for scripts that use `solve`. No nonstandard hardware is required.
 
-No installation is needed beyond downloading the repository and opening it in MATLAB. Setup should take less than five minutes.
+The code was tested using `MATLAB R2024b` on `Windows 11`.
 
 ## Files
 
